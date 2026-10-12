@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Dmitry Ruban</title>
+  <desc id="desc">Engineering leadership, grounded in practice.</desc>
+  <rect width="1200" height="330" rx="8" fill="#eee4dd"/>
+  <path d="M0 8a8 8 0 0 1 8-8h8v330H8a8 8 0 0 1-8-8Z" fill="#7d3b3b"/>
+  <g fill="none" stroke="#d5c9bf" stroke-width="1.5">
+    <path d="M955 0v330M1065 0v330M1175 0v330M900 55h300M900 165h300M900 275h300"/>
+  </g>
+  <g fill="none" stroke="#7d3b3b" stroke-width="3">
+    <path d="M955 55h110v110h110M955 165v110h110"/>
+    <circle cx="955" cy="55" r="7" fill="#eee4dd"/>
+    <circle cx="1065" cy="165" r="7" fill="#eee4dd"/>
+    <circle cx="1065" cy="275" r="7" fill="#eee4dd"/>
+  </g>
+  <text x="64" y="135" fill="#2f2f2f" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Dmitry Ruban</text>
+  <g fill="#613535" font-family="Arial, Helvetica, sans-serif" font-size="30">
+    <text x="68" y="202">Engineering leadership,</text>
+    <text x="68" y="244">grounded in practice.</text>
+  </g>
+</svg>

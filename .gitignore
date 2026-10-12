@@ -1,0 +1,6 @@
+# Local review material, not profile content
+/PREVIEW.md
+/preview.html
+/preview-*.png
+/assets/avatar-preview.jpg
+.DS_Store
